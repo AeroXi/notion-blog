@@ -2,7 +2,7 @@ const BLOG = {
   title: 'AeroXi\'s blog',
   author: 'AeroXi',
   email: 'magictalentx@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://aeroxi-blog.vercel.app/',
   description: 'This gonna be an awesome website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
